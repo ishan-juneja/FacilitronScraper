@@ -1,4 +1,4 @@
-# Facilitron Web Scraper
+# Facilitron Facility Web Scraper
 This project is a web scraper for the Facilitron website using Selenium. The scraper logs in to the site, searches for facilities based on specified criteria, and collects detailed information about each facility, including its name, address, images, description, price, and available sports. The collected data is saved in a CSV file for further use.
 
 ## Features
