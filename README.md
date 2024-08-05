@@ -67,6 +67,7 @@ Timeouts: The script includes various timeouts to ensure elements are loaded bef
 Implicit Waits: The script uses implicit waits to handle dynamic loading of elements.
 Error Handling: Exception handling is implemented to manage elements that may not be found or clickable.
 The stress testing has been limited on this, but it hasn't crashed under my testing.
+Be wary of the legal issues of web scraping for commercial use.
 
 ## Future Advancements
 Parallel Scraping: Implement parallel scraping to speed up the data collection process.
