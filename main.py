@@ -10,8 +10,8 @@ import time, csv, os
 # Variables Declaration
 driver = webdriver.Chrome()
 get_times = False
-username = "ishanj101ishanj101@gmail.com"
-password = "ishanj101ishanj101"
+username = ""
+password = ""
 location_to_search = "fremont"
 sport_to_search = "basketball"
 csv_file = "facilitron_scrape_sample.csv"
